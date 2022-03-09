@@ -18,16 +18,15 @@ Before you begin, read the Sculley et al. (2015) paper to consider technical deb
 
 ## Checklist
 1. ML
+* Does application do ML inference? 
 
-Does application do ML inference? 
 2. DevOps
+* Are there separate environments?
+* Is there comprehensive monitoring and alerts?
 
-Are there separate environments?
-Is there comprehensive monitoring and alerts?
 3. Data
+* Is the correct Datastore used?
 
-Is the correct Datastore used?
 4. Security
-
-Does the principle of least security apply?
-Is data encrypted in transit?
+* Does the principle of least security apply?
+* Is data encrypted in transit?
