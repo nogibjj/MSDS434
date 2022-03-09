@@ -30,3 +30,9 @@ Before you begin, read the Sculley et al. (2015) paper to consider technical deb
 4. Security
 * Does the principle of least security apply?
 * Is data encrypted in transit?
+
+# Project Intro
+For this project I chose to work with the SF 311 dataset, which is publicly available through GCP.
+
+## Dataset Overview
+This data includes all San Francisco 311 service requests from July 2008 to the present, and is updated daily. 311 is a non-emergency number that provides access to non-emergency municipal services.
